@@ -1,0 +1,15 @@
+# INVENTORY of Maritime Robotics Lab Southampton
+# please add new entries *at the top*
+# currently used keywords: waterproofing, cleaning, soldering
+# use semicolon instead of commas when separating entries within keywords, locations, notes
+# don't use '#', since that is interpreted as a comment and thus ignored
+Name                            , Source       , part no.          , Purchase Date  , Best Before Date        , Consumable , Keywords              , Location                    , Free Text Note
+#                               #              # NaN if unknown    # NaN if unknown # NaN if it works forever # Yes/No     # see list above        #                             #
+test22                          , test         , 123123            , 6.1.2017       , 1.6.2017                , Yes        ,                       ,                             , 
+
+test22                          , test         , 123123            , 6.1.2016       , 1.6.2016                , Yes        ,                       ,                             , 
+test                            , test         , 123123            , 12.1.2016      , 1.12.2016               , Yes        ,                       ,                             , 
+soldering iron tips             , rs-online    , NaN               , NaN            , NaN                     , Yes        , soldering             , table; soldering area       , some fresh tips are also in the assortment cabinets; clean and re-tin your tips before changing or when work is done
+soldering iron                  , rs-online    , NaN               , NaN            , NaN                     , No         , soldering             , table; soldering area       , 
+lead free solder                , rs-online    , NaN               , NaN            , NaN                     , Yes        , soldering             , table; soldering area       , typical soldering temperature 270 degrees
+# Please add new entries *at the top*               
